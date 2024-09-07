@@ -53,6 +53,7 @@ This project is a **Spring Boot** application that fetches live currency exchang
       --mvn spring-boot:run
 
    4. **Access the APIs via:
+
       4.1 http://localhost:8080/api/exchange-rates
       4.2 http://localhost:8080/api/convert   
 
