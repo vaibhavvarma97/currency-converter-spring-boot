@@ -52,11 +52,6 @@ This project is a **Spring Boot** application that fetches live currency exchang
    3. **Run the application:
       --mvn spring-boot:run
 
-   4. **Access the APIs via:
-
-      4.1 http://localhost:8080/api/exchange-rates
-      4.2 http://localhost:8080/api/convert   
-
  ## Future Improvements 
    1. **Adding user authentication for secure API access.
    2. **Implementing real-time exchange rate updates.
