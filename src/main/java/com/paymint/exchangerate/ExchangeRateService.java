@@ -15,7 +15,7 @@ import java.util.Map;
 public class ExchangeRateService {
 
     private static final String EXCHANGE_RATE_API_URL = 
-        "https://api.exchangeratesapi.io/v1/latest?access_key=8ea58eb15b8a5834a992341d0f98b359";
+        "https://api.exchangeratesapi.io/v1/latest?access_key=$ACCESS_TOKEN$";
 
     @Autowired
     private ExchangeRateRepository exchangeRateRepository;
