@@ -57,6 +57,6 @@ This project is a **Spring Boot** application that fetches live currency exchang
       --http://localhost:8080/api/convert   
 
  ## Future Improvements 
-   Adding user authentication for secure API access.
-   Implementing real-time exchange rate updates.
-   Support for additional currencies.
+   1. **Adding user authentication for secure API access.
+   2. **Implementing real-time exchange rate updates.
+   3. **Support for additional currencies.
