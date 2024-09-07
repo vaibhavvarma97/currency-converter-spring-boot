@@ -41,3 +41,22 @@ This project is a **Spring Boot** application that fetches live currency exchang
        "toCurrency": "INR",
        "amount": 100
    }
+
+## Setup and Installation
+   1. **Clone the repository:
+      --git clone https://github.com/vaibhavvarma97/currency-converter-spring-boot.git cd currency-converter-spring-boot
+   
+   2. **Build the project using Maven:
+      --mvn clean install
+
+   3. **Run the application:
+      --mvn spring-boot:run
+
+   4. **Access the APIs via:
+      --http://localhost:8080/api/exchange-rates
+      --http://localhost:8080/api/convert   
+
+ ## Future Improvements 
+   Adding user authentication for secure API access.
+   Implementing real-time exchange rate updates.
+   Support for additional currencies.
